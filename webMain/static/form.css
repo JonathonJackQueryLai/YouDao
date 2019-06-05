@@ -1,0 +1,8 @@
+*{padding: 0;  margin: 0;}
+    html {font-size: 62.5%; -webkit-text-size-adjust: 100%;}
+    body, html { width: 100%; max-width: 750px;margin: 0 auto;font-family:PingFang SC Light,Lantinghei SC Light,Helvetica Neue Light,Helvetica Light,Arial,Microsoft YaHei Light,\\5FAE\8F6F\96C5\9ED1,STHeitiSC-Light,simsun,\\5B8B\4F53,WenQuanYi Zen Hei Light,WenQuanYi Micro Hei Light,"sans-serif"; }
+    body {background: #fdc35f; overflow-x: hidden; }
+    div,span { -webkit-tap-highlight-color: transparent;  box-sizing: border-box; }
+    input,button{outline: none;border: none;background: none;}
+    input{width: 100%;}
+    .bg-white{background: #fff;}
